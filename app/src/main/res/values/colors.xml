@@ -1,0 +1,4 @@
+<resources>
+    <color name="btn_normal">#00ffff</color>
+    <color name="btn_press">#ff00ff</color>
+</resources>
